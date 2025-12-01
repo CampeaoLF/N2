@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - Chegada
+  - buraco
   layers:
   - Default
   - TransparentFX

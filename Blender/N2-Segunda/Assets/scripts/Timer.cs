@@ -37,6 +37,7 @@ public class Timer : MonoBehaviour
         }
     }
 
+
     void UpdateTimer(float currentTime)
     {
         currentTime += 1;
